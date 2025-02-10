@@ -1,1 +1,1 @@
-# rapidomvccrud
+A CRUD application using Rapido MV for rapid development with a structured MVC approach. It enables Create, Read, Update, and Delete operations with a clean and scalable architecture. Designed for efficiency, maintainability, and ease of use.
